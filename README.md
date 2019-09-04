@@ -1,1 +1,1 @@
-# django-tutorial
+# django-restframework-tutorial
