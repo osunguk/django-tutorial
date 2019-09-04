@@ -25,9 +25,6 @@ class UserList(generics.ListAPIView):
     queryset = User.objects.all()
     serializer_class = UserSerializer
 
-    def perform_create(self, serializer):
-        serializer.save(owner=self.request.user)
-
 
 class UserDetail(generics.RetrieveAPIView):
     permission_classes = ()
