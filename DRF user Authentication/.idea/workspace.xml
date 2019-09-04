@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5645185-ebfb-448d-9e2b-941c4406e24c" name="Default Changelist" comment="" />
+    <list default="true" id="b5645185-ebfb-448d-9e2b-941c4406e24c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Beginner's Guide/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Beginner's Guide/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Beginner's Guide/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DRF Blog API/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DRF Blog API/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../final/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/FinalProject/FinalProject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../final/FinalProject/FinalProject/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/FinalProject/FinalProject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../final/FinalProject/FinalProject/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/FinalProject/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/FinalProject/post/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../final/FinalProject/post/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/FinalProject/post/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/FinalProject/post/migrations/0002_auto_20190903_1805.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/FinalProject/post/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../final/FinalProject/post/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/FinalProject/post/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/../final/FinalProject/post/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/FinalProject/post/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../final/FinalProject/post/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/FinalProject/post/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../final/FinalProject/post/views.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +35,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1QG54fQB20qtSPoUTWJSH6jLnas" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -46,5 +67,18 @@
       <updated>1567383902906</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

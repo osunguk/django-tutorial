@@ -2,7 +2,7 @@ from rest_framework import generics, permissions
 from .models import Post
 from django.contrib.auth.models import User
 from .serializers import PostSerializer, UserSerializer
-# from .permissions import IsOwnerOrReadOnly
+from .permissions import IsOwnerOrReadOnly
 
 
 class PostList(generics.ListCreateAPIView):
@@ -10,9 +10,12 @@ class PostList(generics.ListCreateAPIView):
     queryset = Post.objects.all()
     serializer_class = PostSerializer
 
+    def perform_create(self, serializer):
+        serializer.save(owner=self.request.user)
+
 
 class PostDetail(generics.RetrieveUpdateDestroyAPIView):
-    permission_classes = ()
+    permission_classes = (IsOwnerOrReadOnly, )
     queryset = Post.objects.all()
     serializer_class = PostSerializer
 

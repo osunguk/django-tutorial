@@ -2,9 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9dd37a18-90cb-49b2-8515-66699586db23" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Beginner's Guide/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRF user Authentication/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Beginner's Guide/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Beginner's Guide/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DRF Blog API/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DRF Blog API/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DRF user Authentication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DRF user Authentication/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FinalProject/FinalProject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/FinalProject/FinalProject/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FinalProject/FinalProject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/FinalProject/FinalProject/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProject/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProject/post/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/FinalProject/post/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProject/post/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProject/post/migrations/0002_auto_20190903_1805.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProject/post/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/FinalProject/post/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProject/post/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/FinalProject/post/serializers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FinalProject/post/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/FinalProject/post/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FinalProject/post/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/FinalProject/post/views.py" afterDir="false" />
     </list>
@@ -27,7 +38,7 @@
   <component name="ProjectId" id="1QJqfjpxz0bDDJPgs9ZDHnpIZ76" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DRF user Authentication" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">

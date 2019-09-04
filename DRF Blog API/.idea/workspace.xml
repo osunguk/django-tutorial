@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="01044b14-0a25-490d-8d81-a7d8711cfb6a" name="Default Changelist" comment="" />
+    <list default="true" id="01044b14-0a25-490d-8d81-a7d8711cfb6a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../DRF user Authentication/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DRF user Authentication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DRF user Authentication/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../final/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/FinalProject/FinalProject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../final/FinalProject/FinalProject/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/FinalProject/FinalProject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../final/FinalProject/FinalProject/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/FinalProject/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../final/FinalProject/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/FinalProject/post/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../final/FinalProject/post/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/FinalProject/post/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/../final/FinalProject/post/serializers.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +25,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1QGt57V8fI5EH4Fg168zJBJ2C99" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DRF Serializers, Viewsets, and Routers" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Beginner's Guide" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -43,5 +57,16 @@
       <updated>1567408574832</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
